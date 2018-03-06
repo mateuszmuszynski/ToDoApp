@@ -1,6 +1,4 @@
-# todo
-
-> A Vue.js project
+# ToDo Vue.js client
 
 ## Build Setup
 
